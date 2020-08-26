@@ -1,6 +1,6 @@
 {
-  "name": "Buget tracker",
   "short_name": "Buget",
+  "name": "Buget tracker",
   "icons": [
     {
       "src": "./icons/icon-192x192.png",
